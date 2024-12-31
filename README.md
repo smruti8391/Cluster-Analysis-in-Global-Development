@@ -1,6 +1,7 @@
 # Cluster-Analysis-in-Global-Development
 
 • Designed and deployed a Streamlit application to classify countries into clusters using a K-Means clustering model based on 19 socio-economic indicators such as GDP, internet usage, and health expenditure.
+
 • Implemented real-time prediction and visualization features, enhancing user engagement and delivering accurate classification insights for global development analysis.
 
 
